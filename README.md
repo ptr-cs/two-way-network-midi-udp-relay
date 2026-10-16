@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot 2026-10-15 at 2 39 44 PM" src="https://github.com/user-attachments/assets/8db4f176-32b5-4012-bae0-3137fb8cba76" />
+
 # Relay — two-way OSC MIDI
 
 A Vite + TypeScript application for exchanging MIDI notes with another computer over OSC/UDP. Both musicians run the same app. Relay can send test notes, receive and audition incoming notes, and transmit the note events from a MIDI file at a configurable tempo.
